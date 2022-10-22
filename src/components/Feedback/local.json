@@ -1,0 +1,31 @@
+{
+  "feedback_title": {
+    "en": "Please leave feedback",
+    "ru": "Пожалуйста оставьте отзыв"
+  },
+
+  "statistics_title": {
+    "en": "Statistics",
+    "ru": "Статистика"
+  },
+
+  "numberUser": {
+    "en": "Number",
+    "ru": "Номер контакта"
+  },
+
+  "add": {
+    "en": "Add contact",
+    "ru": "Добавить контакт"
+  },
+
+  "search_title": {
+    "en": "Search by name",
+    "ru": "Поиск по имени"
+  },
+
+  "contacts_title": {
+    "en": "Contacts",
+    "ru": "Контакты"
+  }
+}
